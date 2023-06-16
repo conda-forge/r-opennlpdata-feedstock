@@ -1,11 +1,11 @@
-About r-opennlpdata
-===================
+About r-opennlpdata-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-opennlpdata-feedstock/blob/main/LICENSE.txt)
 
 Home: https://opennlp.apache.org/, http://opennlp.sourceforge.net/models-1.5/
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-opennlpdata-feedstock/blob/main/LICENSE.txt)
 
 Summary: Apache OpenNLP jars and basic English language models.
 
